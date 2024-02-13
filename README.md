@@ -18,7 +18,7 @@ Pandas, veri çerçevelerini okuma, yazma, değiştirme, sıralama, gruplama, bi
 
 Her iki kütüphane de, Python'da veri bilimi ve makine öğrenmesi uygulamaları için temel araçlardır.
 
-
+<h1>   </h1>
 
 Introduction to NumPy and Pandas for Machine Learning
 
